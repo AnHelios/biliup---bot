@@ -1,0 +1,6 @@
+[2023-02-16 12:04:45] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-02-16 12:04:47] [WARNING]: 正向 Websocket 使用了过时的配置格式，请更新配置文件 
+[2023-02-16 12:04:47] [WARNING]: HTTP 服务器使用了过时的配置格式，请更新配置文件！ 
+[2023-02-16 13:09:58] [WARNING]: 转换CQ码 [CQ:image,file=C:\Users\15211\Desktop\socket\resource\image\temporary_image\672545360.png] 时出现错误: invalid image 将原样发送. 
+[2023-02-16 14:48:21] [WARNING]: 处理群系统消息失败: 无法操作已处理的消息. 
+[2023-02-16 16:04:35] [WARNING]: 转换CQ码 [CQ:image,file=file:///{img_path}] 时出现错误: file not found 将原样发送. 
