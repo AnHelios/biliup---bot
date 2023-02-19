@@ -1,3 +1,0 @@
-[2023-02-15 14:59:56] [WARNING]: Protocol -> device lock is disable. http api may fail. 
-[2023-02-15 14:59:58] [WARNING]: 正向 Websocket 使用了过时的配置格式，请更新配置文件 
-[2023-02-15 14:59:58] [WARNING]: HTTP 服务器使用了过时的配置格式，请更新配置文件！ 
